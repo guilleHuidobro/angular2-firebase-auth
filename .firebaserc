@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "fir-auth-bcf48 "
+    "default": "fir-auth-bcf48",
+    "staging": "fir-auth-bcf48"
   }
 }
